@@ -1,0 +1,34 @@
+KAZIBWE FOUNDATION SCHOOL — ELEMENTOR-READY WORDPRESS THEME
+
+WHAT HAS CHANGED
+- Added Elementor compatibility to functions.php.
+- Added a safe Elementor content check to the page templates.
+- When a page is built and saved with Elementor, WordPress displays its Elementor content.
+- When no Elementor content exists yet, the existing PHP page design remains visible as a fallback.
+- Kept the existing images, page templates, filenames and original PHP layouts.
+- Fixed the Co-Curricular image filename case: images/Singing.jpg.
+
+IMPORTANT
+The existing hard-coded PHP sections do not automatically become Elementor widgets.
+To edit a page section by section:
+1. Install and activate Elementor.
+2. Open a WordPress page and choose "Edit with Elementor".
+3. Rebuild that page using separate Elementor sections/containers and widgets (Heading, Text Editor, Image, Button, Gallery, Form, etc.).
+4. Click Update.
+5. Once Elementor content is saved, the page displays the Elementor-built sections instead of the PHP fallback.
+
+Use separate Elementor sections/containers for each visual section. Do not paste the whole page into one Text Editor widget.
+
+The PHP fallback is retained so pages do not become empty while you migrate them.
+The theme's custom header and footer remain PHP-controlled. Elementor Pro Theme Builder can replace them if you create and assign Header/Footer templates.
+
+INSTALLATION
+1. Back up the current theme folder.
+2. Upload/extract this theme into:
+   wp-content/themes/kazibwe-foundation
+3. Activate the theme if WordPress asks.
+4. Install Elementor (free version is enough for page sections).
+5. Edit pages one at a time with Elementor.
+
+NOTE
+This package does not include Elementor page designs already converted into Elementor data. That conversion must be done page by page in Elementor; PHP cannot make existing hard-coded markup editable as individual Elementor widgets by itself.

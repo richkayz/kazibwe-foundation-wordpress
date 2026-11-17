@@ -1,0 +1,1202 @@
+ID,Title,Content,Excerpt,Date,"Post Type",Permalink
+2,"Sample Page","<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class=""wp-block-quote"">
+<!-- wp:paragraph -->
+<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p>
+<!-- /wp:paragraph -->
+</blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class=""wp-block-quote"">
+<!-- wp:paragraph -->
+<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
+<!-- /wp:paragraph -->
+</blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href=""http://localhost/kazibwe/wp-admin/"">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->",,"2026-11-13 13:03:44",page,http://localhost/kazibwe/sample-page/
+3,"Privacy Policy","<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Who we are</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>Our website address is: http://localhost/kazibwe.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Comments</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Media</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Cookies</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Embedded content from other websites</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Who we share your data with</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">How long we retain your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">What rights you have over your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Where your data is sent</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>
+<!-- /wp:paragraph -->
+",,"2026-11-13 13:03:44",page,http://localhost/kazibwe/?page_id=3
+9,"About Us","<!-- wp:html --><h1>About Us</h1>
+
+        <section class=""about-intro"">
+            <div class=""about-intro-text"">
+                <h2>Building a Better Future Together</h2>
+                <p>
+                    Kazibwe Foundation School is a community-driven
+                    school committed to providing quality education,
+                    strong moral values and a safe learning environment
+                    for every child.
+                </p>
+            </div>
+
+            <img
+                src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/school.png""
+                alt=""Kazibwe Foundation School""
+                class=""about-school-image""
+            >
+        </section>
+
+        <section class=""about-purpose"">
+            <article class=""purpose-card"">
+                <h2>Our Mission</h2>
+                <p>
+                    To provide quality education that nurtures talent,
+                    builds character and empowers learners to positively
+                    contribute to society.
+                </p>
+            </article>
+
+            <article class=""purpose-card"">
+                <h2>Our Vision</h2>
+                <p>
+                    To be a leading school producing knowledgeable,
+                    disciplined and confident citizens for a brighter future.
+                </p>
+            </article>
+        </section>
+
+        <section class=""about-values"">
+            <h2>Our Values</h2>
+
+            <ul>
+                <li>Integrity</li>
+                <li>Excellence</li>
+                <li>Respect</li>
+                <li>Teamwork</li>
+                <li>Discipline</li>
+                <li>Service to the community</li>
+            </ul>
+        </section>
+
+
+<section class=""about-extra"">
+    <h2>Our Commitment to Every Child</h2>
+    <p>
+        At Kazibwe Foundation School, we believe every child has the
+        potential to learn, grow and succeed. We are committed to
+        providing a supportive learning environment where learners
+        are encouraged to develop their abilities, build confidence
+        and work towards their goals.
+    </p>
+
+    <h2>Building Character Through Education</h2>
+    <p>
+        Education is more than academic achievement. We believe that
+        honesty, respect, discipline and teamwork are important parts
+        of a child's development. Through learning and positive
+        guidance, we aim to nurture responsible learners who respect
+        others and contribute positively to their communities.
+    </p>
+
+    <h2>Preparing Learners for the Future</h2>
+    <p>
+        Our goal is to help learners develop the knowledge, skills
+        and values they need for the next stage of their education
+        and for life beyond the classroom. We encourage curiosity,
+        creativity, responsibility and a positive attitude towards
+        learning.
+    </p>
+
+    <p>
+        At Kazibwe Foundation School, our guiding belief remains:
+        <strong>Great Learners, Better Citizens.</strong>
+    </p>
+
+    <p>
+        <a href="""">Explore Our Academic Programmes</a>
+        or
+        <a href="""">Contact Us</a> to learn more.
+    </p>
+</section><!-- /wp:html -->",,"2026-11-13 13:12:29",page,http://localhost/kazibwe/about-us/
+10,Academics,"<!-- wp:html --><h1>Our Academic Programs</h1>
+
+        <p class=""academics-intro"">
+            We offer a well-rounded education that prepares learners for life.
+            Our programmes nurture academic ability, build good character and
+            help every child develop the skills and confidence needed for the future.
+        </p>
+
+        <section class=""program-list"" aria-label=""School programmes"">
+
+            <article class=""program-row"">
+                <div class=""program-image"">
+                    <img
+                        src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/nursary.jpg""
+                        alt=""Learning resources for young learners""
+                        loading=""lazy"">
+                </div>
+
+                <div class=""program-details"">
+                    <h2>Nursery (Baby Class – Top Class)</h2>
+                    <p>
+                        We provide a fun, safe and caring environment where
+                        young children learn through play, discovery and creativity.
+                        Our nursery programme encourages curiosity, communication,
+                        early learning and positive relationships.
+                    </p>
+                    <a href="""" class=""program-link"">
+                        Explore Nursery →
+                    </a>
+                </div>
+            </article>
+
+            <article class=""program-row"">
+                <div class=""program-image"">
+                    <img
+                        src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/school.png""
+                        alt=""School learning environment""
+                        loading=""lazy"">
+                </div>
+
+                <div class=""program-details"">
+                    <h2>Primary School (P1–P7)</h2>
+                    <p>
+                        Our primary programme builds a strong academic foundation
+                        while promoting discipline, responsibility and good character.
+                        Learners develop essential knowledge, practical skills
+                        and confidence to prepare them for the next stage of education.
+                    </p>
+                    <a href="""" class=""program-link"">
+                        Explore Primary School →
+                    </a>
+                </div>
+            </article>
+
+            <article class=""program-row"">
+                <div class=""program-image"">
+                    <img
+                        src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/soccer-football.jpg""
+                        alt=""Sports and physical activities""
+                        loading=""lazy"">
+                </div>
+
+                <div class=""program-details"">
+                    <h2>Co-Curricular Activities</h2>
+                    <p>
+                        Learning extends beyond the classroom through sports,
+                        music, drama, debate clubs and other activities.
+                        These opportunities help learners discover their talents,
+                        develop teamwork and leadership, and grow in confidence.
+                    </p>
+                    <a href="""" class=""program-link"">
+                        Explore Activities →
+                    </a>
+                </div>
+            </article>
+
+        </section>
+
+        <section class=""academics-actions"">
+            <h2>Take the Next Step</h2>
+            <p>
+                Find the right learning programme for your child or contact
+                our school for more information about admissions.
+            </p>
+
+            <div class=""academics-action-buttons"">
+                <a href="""" class=""button"">Enroll Now</a>
+                <a href="""" class=""button academics-contact-button"">
+                    Contact Us
+                </a>
+            </div>
+        </section><!-- /wp:html -->",,"2026-11-13 13:12:29",page,http://localhost/kazibwe/academics/
+11,Gallery,"<!-- wp:html --><h1>Our School Gallery</h1>
+        <p class=""gallery-intro"">
+            A glimpse into learning, creativity, participation and
+            activities at Kazibwe Foundation School.
+        </p>
+
+        
+<section class=""gallery-grid"" aria-label=""Kazibwe Foundation School gallery"">
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/primary.jpg"" alt=""Primary school learners in class"" loading=""lazy"">
+        <h2>Classroom Learning</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/babyclass.jpg"" alt=""Young children enjoying baby class activities"" loading=""lazy"">
+        <h2>Baby Class</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/nursary.jpg"" alt=""Nursery learners taking part in classroom activities"" loading=""lazy"">
+        <h2>Happy Learners</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/nusary2Top.png"" alt=""Nursery children learning and exploring"" loading=""lazy"">
+        <h2>Nursery Learning</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/discovery-and-exploration.png"" alt=""Children discovering and exploring through learning"" loading=""lazy"">
+        <h2>Discovery and Exploration</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/early-literacy.jpg"" alt=""Children developing early reading skills"" loading=""lazy"">
+        <h2>Early Literacy</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/building-knowledge.jpg"" alt=""Learners developing knowledge and understanding"" loading=""lazy"">
+        <h2>Building Knowledge</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/learningskills.jpg"" alt=""Children practising learning skills"" loading=""lazy"">
+        <h2>Learning Skills</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/learning-together.jpg"" alt=""Children learning together and sharing ideas"" loading=""lazy"">
+        <h2>Learning Together</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/createive-learning1.jpg"" alt=""Children engaged in creative learning"" loading=""lazy"">
+        <h2>Creative Learning</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/class-computer.jpg"" alt=""Learners practising computer skills"" loading=""lazy"">
+        <h2>Computer Classes</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/debate.jpg"" alt=""Learners participating in a debate"" loading=""lazy"">
+        <h2>Debate and Communication</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/Singing.jpg"" alt=""Learners participating in singing and music"" loading=""lazy"">
+        <h2>Music and Singing</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/sportsDay.jpg"" alt=""Children participating in school sports day"" loading=""lazy"">
+        <h2>School Sports Day</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/soccer-football.jpg"" alt=""Children playing football"" loading=""lazy"">
+        <h2>Football</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/school.png"" alt=""Kazibwe Foundation School environment"" loading=""lazy"">
+        <h2>Our School</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/61UlyCYoyPL.png"" alt=""Educational resources for young learners"" loading=""lazy"">
+        <h2>Learning Resources</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/f3b71e82-f0ac-498c-ae2a-34e9c0d8ca07.png"" alt=""School learning and activities"" loading=""lazy"">
+        <h2>School Activities</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/logo.png"" alt=""Kazibwe Foundation School logo"" loading=""lazy"">
+        <h2>Our Identity</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/Logo1.png"" alt=""Kazibwe Foundation School branding"" loading=""lazy"">
+        <h2>Our School Logo</h2>
+    </article>
+
+    <article class=""gallery-item"">
+        <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/favicon.png"" alt=""Kazibwe Foundation School icon"" loading=""lazy"">
+        <h2>School Emblem</h2>
+    </article>
+
+</section>
+
+
+        <section class=""gallery-actions"">
+            <h2>Be Part of Our School Community</h2>
+            <p>
+                Learn more about our programmes or contact us
+                for information about joining the school.
+            </p>
+            <div class=""gallery-buttons"">
+                <a href="""" class=""button"">Enroll Now</a>
+                <a href="""" class=""button gallery-contact-button"">
+                    Contact Us
+                </a>
+            </div>
+        </section><!-- /wp:html -->",,"2026-11-13 13:12:29",page,http://localhost/kazibwe/gallery/
+12,"Contact Us","<!-- wp:html --><section class=""contact-heading"">
+        <h1>Contact Us</h1>
+        <p>We would love to hear from you!</p>
+        <p>
+            Have a question about admissions, our academic programmes
+            or school activities? Get in touch with us.
+        </p>
+    </section>
+
+    <section class=""contact-layout"">
+
+        <div class=""contact-information"">
+            <h2>Our Contact Information</h2>
+            <p class=""contact-info-intro"">
+                Contact our school for enquiries, admissions information
+                or assistance.
+            </p>
+
+            <div class=""contact-info-item"">
+                <div class=""contact-icon"" aria-hidden=""true"">⌖</div>
+                <div>
+                    <h3>Our Address</h3>
+                    <p>Kazibwe Foundation School</p>
+                    <p>P.O. Box 128, Entebbe, Uganda</p>
+                </div>
+            </div>
+
+            <div class=""contact-info-item"">
+                <div class=""contact-icon"" aria-hidden=""true"">☎</div>
+                <div>
+                    <h3>Phone Numbers</h3>
+                    <p><a href=""tel:+256772023461"">+256 772 023 461</a></p>
+                    <p><a href=""tel:+256752331775"">+256 752 331 775</a></p>
+                </div>
+            </div>
+
+            <div class=""contact-info-item"">
+                <div class=""contact-icon"" aria-hidden=""true"">✉</div>
+                <div>
+                    <h3>Email Address</h3>
+                    <p>
+                        <a href=""mailto:info@kazibwefs.com"">
+                            info@kazibwefs.com
+                        </a>
+                    </p>
+                </div>
+            </div>
+
+            <div class=""contact-info-item"">
+                <div class=""contact-icon"" aria-hidden=""true"">◷</div>
+                <div>
+                    <h3>Working Hours</h3>
+                    <p>Monday – Saturday</p>
+                    <p>8:00 AM – 5:00 PM</p>
+                </div>
+            </div>
+
+            <a class=""contact-whatsapp""
+               href=""https://wa.me/256772023461""
+               target=""_blank""
+               rel=""noopener noreferrer"">
+                Chat with Us on WhatsApp
+            </a>
+        </div>
+
+        <div class=""contact-form-panel"">
+            <h2>Send Us a Message</h2>
+            <p class=""contact-form-intro"">
+                Complete the form below and let us know how we can help.
+            </p>
+            <!-- Form submission to be handled by FormSubmit.co service -->
+            <form class=""school-contact-form""
+                action=""#"" data-local-form=""1""
+                method=""POST"">
+
+            <input type=""hidden"" name=""_next""
+                value=""https://richkayz.github.io/kazibwe-foundation/thank-you.html"">
+
+                <input type=""hidden"" name=""_subject""
+                    value=""New enquiry - Kazibwe Foundation School"">
+
+                <input type=""hidden"" name=""_template"" value=""table"">
+                <input type=""hidden"" name=""_captcha"" value=""true"">
+
+                <div class=""contact-form-group"">
+                    <label for=""contact-name"">Your Name *</label>
+                    <input type=""text"" id=""contact-name"" name=""name""
+                           placeholder=""Enter your full name""
+                           autocomplete=""name"" required>
+                </div>
+
+                <div class=""contact-form-row"">
+                    <div class=""contact-form-group"">
+                        <label for=""contact-email"">Your Email *</label>
+                        <input type=""email"" id=""contact-email"" name=""email""
+                               placeholder=""you@example.com""
+                               autocomplete=""email"" required>
+                    </div>
+
+                    <div class=""contact-form-group"">
+                        <label for=""contact-phone"">Phone Number</label>
+                        <input type=""tel"" id=""contact-phone"" name=""phone""
+                               placeholder=""+256...""
+                               autocomplete=""tel"">
+                    </div>
+                </div>
+
+                <div class=""contact-form-group"">
+                    <label for=""contact-subject"">Subject *</label>
+                    <select id=""contact-subject"" name=""subject"" required>
+                        <option value="""">Select a subject</option>
+                        <option value=""Admissions"">Admissions</option>
+                        <option value=""Nursery Programme"">Nursery Programme</option>
+                        <option value=""Primary Education"">Primary Education</option>
+                        <option value=""School Activities"">School Activities</option>
+                        <option value=""General Enquiry"">General Enquiry</option>
+                        <option value=""Other"">Other</option>
+                    </select>
+                </div>
+
+                <div class=""contact-form-group"">
+                    <label for=""contact-message"">Your Message *</label>
+                    <textarea id=""contact-message"" name=""message""
+                              rows=""5""
+                              placeholder=""How can we help you?""
+                              required></textarea>
+                </div>
+
+                <button type=""submit"" class=""contact-submit-button"">
+                    Send Message →
+                </button>
+
+                <p class=""contact-privacy-note"">
+                    Your information will be used to respond to your enquiry.
+                </p>
+            </form>
+        </div>
+
+    </section>
+
+    <section class=""contact-location"">
+        <div class=""contact-location-heading"">
+            <h2>Our Location</h2>
+            <p>Find Kazibwe Foundation School in Entebbe, Uganda.</p>
+        </div>
+
+        <div class=""contact-map"">
+            
+    <iframe
+        src=""https://maps.google.com/maps?q=Entebbe%2C%20Uganda&z=12&output=embed""
+        title=""Map of Entebbe, Uganda""
+        loading=""lazy""
+        referrerpolicy=""no-referrer-when-downgrade""
+        allowfullscreen>
+    </iframe>
+
+        </div>
+
+        <p class=""contact-map-note"">
+            <a href=""https://www.google.com/maps/search/?api=1&query=Kazibwe+Foundation+School+Entebbe+Uganda""
+               target=""_blank""
+               rel=""noopener noreferrer"">
+                Open in Google Maps ↗
+            </a>
+        </p>
+    </section>
+
+    <section class=""contact-bottom-cta"">
+        <h2>We Look Forward to Hearing from You</h2>
+        <p>Let us help you take the next step in your child's education.</p>
+        <a href="""" class=""contact-enroll-button"">
+            Explore Enrolment
+        </a>
+    </section><!-- /wp:html -->",,"2026-11-13 13:12:29",page,http://localhost/kazibwe/contact/
+13,"Enroll Now","<!-- wp:html --><section class=""enrollment-hero"">
+        <p class=""enrollment-eyebrow"">ADMISSIONS</p>
+        <h1>Give Your Child a Great Start</h1>
+        <p>
+            Welcome to Kazibwe Foundation School. Complete the form below
+            to enquire about admission for your child. Our team will contact
+            you with further information.
+        </p>
+    </section>
+
+    <section class=""enrollment-content"">
+
+        <div class=""enrollment-sidebar"">
+            <h2>Begin Your Child's Journey</h2>
+            <p>
+                We are committed to helping learners develop knowledge,
+                confidence, practical skills and good character.
+            </p>
+
+            <div class=""enrollment-benefit"">
+                <span>01</span>
+                <div>
+                    <h3>Choose a Programme</h3>
+                    <p>Tell us whether you are interested in Nursery or Primary.</p>
+                </div>
+            </div>
+
+            <div class=""enrollment-benefit"">
+                <span>02</span>
+                <div>
+                    <h3>Share Your Details</h3>
+                    <p>Provide your child's details and your contact information.</p>
+                </div>
+            </div>
+
+            <div class=""enrollment-benefit"">
+                <span>03</span>
+                <div>
+                    <h3>Hear from Our Team</h3>
+                    <p>We will use your contact details to respond to your enquiry.</p>
+                </div>
+            </div>
+
+            <div class=""enrollment-contact"">
+                <h3>Need Assistance?</h3>
+                <p>Call us for admission enquiries.</p>
+                <p><a href=""tel:+256772023461"">+256 772 023 461</a></p>
+                <p><a href=""tel:+256752331775"">+256 752 331 775</a></p>
+                <p><a href=""mailto:info@kazibwefs.com"">info@kazibwefs.com</a></p>
+            </div>
+        </div>
+
+        <div class=""enrollment-form-panel"">
+            <h2>Admission Enquiry Form</h2>
+            <p class=""enrollment-form-intro"">
+                Fields marked with * are required.
+            </p>
+
+            <form class=""enrollment-form""
+                  action=""#"" data-local-form=""1""
+                  method=""POST"">
+
+                <input type=""hidden"" name=""_subject""
+                       value=""New Admission Enquiry - Kazibwe Foundation School"">
+                <input type=""hidden"" name=""_template"" value=""table"">
+                <input type=""hidden"" name=""_captcha"" value=""true"">
+                <input type=""hidden"" name=""_next""
+                       value=""https://richkayz.github.io/kazibwe-foundation/thank-you.html"">
+
+                <h3 class=""enrollment-section-title"">Child's Information</h3>
+
+                <div class=""enrollment-field"">
+                    <label for=""child-name"">Child's Full Name *</label>
+                    <input type=""text"" id=""child-name"" name=""Child's Full Name""
+                           placeholder=""Enter the child's full name"" required>
+                </div>
+
+                <div class=""enrollment-form-row"">
+                    <div class=""enrollment-field"">
+                        <label for=""child-dob"">Date of Birth</label>
+                        <input type=""date"" id=""child-dob"" name=""Child's Date of Birth"">
+                    </div>
+
+                    <div class=""enrollment-field"">
+                        <label for=""child-gender"">Gender</label>
+                        <select id=""child-gender"" name=""Child's Gender"">
+                            <option value="""">Select gender</option>
+                            <option value=""Male"">Male</option>
+                            <option value=""Female"">Female</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class=""enrollment-form-row"">
+                    <div class=""enrollment-field"">
+                        <label for=""programme"">Programme *</label>
+                        <select id=""programme"" name=""Programme of Interest"" required>
+                            <option value="""">Choose programme</option>
+                            <option value=""Nursery"">Nursery</option>
+                            <option value=""Primary"">Primary</option>
+                        </select>
+                    </div>
+
+                    <div class=""enrollment-field"">
+                        <label for=""class-level"">Class Applying For *</label>
+                        <select id=""class-level"" name=""Class Applying For"" required>
+                            <option value="""">Select class</option>
+                            <option value=""Baby Class"">Baby Class</option>
+                            <option value=""Middle Class"">Middle Class</option>
+                            <option value=""Top Class"">Top Class</option>
+                            <option value=""Primary One"">Primary One (P1)</option>
+                            <option value=""Primary Two"">Primary Two (P2)</option>
+                            <option value=""Primary Three"">Primary Three (P3)</option>
+                            <option value=""Primary Four"">Primary Four (P4)</option>
+                            <option value=""Primary Five"">Primary Five (P5)</option>
+                            <option value=""Primary Six"">Primary Six (P6)</option>
+                            <option value=""Primary Seven"">Primary Seven (P7)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <h3 class=""enrollment-section-title"">Parent or Guardian Details</h3>
+
+                <div class=""enrollment-field"">
+                    <label for=""guardian-name"">Parent/Guardian Full Name *</label>
+                    <input type=""text"" id=""guardian-name"" name=""Parent or Guardian Name""
+                           placeholder=""Enter your full name""
+                           autocomplete=""name"" required>
+                </div>
+
+                <div class=""enrollment-form-row"">
+                    <div class=""enrollment-field"">
+                        <label for=""guardian-phone"">Phone Number *</label>
+                        <input type=""tel"" id=""guardian-phone"" name=""Parent or Guardian Phone""
+                               placeholder=""+256...""
+                               autocomplete=""tel"" required>
+                    </div>
+
+                    <div class=""enrollment-field"">
+                        <label for=""guardian-email"">Email Address</label>
+                        <input type=""email"" id=""guardian-email"" name=""Parent or Guardian Email""
+                               placeholder=""you@example.com""
+                               autocomplete=""email"">
+                    </div>
+                </div>
+
+                <div class=""enrollment-field"">
+                    <label for=""home-location"">Home Area / Location *</label>
+                    <input type=""text"" id=""home-location"" name=""Home Area""
+                           placeholder=""e.g. Entebbe, Kawuku""
+                           autocomplete=""address-level2"" required>
+                </div>
+
+                <div class=""enrollment-field"">
+                    <label for=""additional-information"">Additional Information</label>
+                    <textarea id=""additional-information""
+                              name=""Additional Information""
+                              rows=""4""
+                              placeholder=""Any questions or information you would like to share?""></textarea>
+                </div>
+
+                <div class=""enrollment-consent"">
+                    <input type=""checkbox"" id=""enrollment-consent""
+                           name=""Contact Consent""
+                           value=""I agree to be contacted about this admission enquiry""
+                           required>
+                    <label for=""enrollment-consent"">
+                        I agree that the school may contact me about this admission enquiry. *
+                    </label>
+                </div>
+
+                <button type=""submit"" class=""enrollment-submit-button"">
+                    Submit Admission Enquiry →
+                </button>
+
+                <p class=""enrollment-privacy"">
+                    Your information will be used to respond to your admission enquiry.
+                    Submitting this form is an enquiry, not a confirmed admission.
+                </p>
+
+            </form>
+        </div>
+
+    </section><!-- /wp:html -->",,"2026-11-13 13:12:29",page,http://localhost/kazibwe/enroll/
+14,Home,"<!-- wp:html --><!-- Hero Section -->
+    <section class=""hero"">
+
+        <div class=""hero-content"">
+
+            <h1>
+                Quality Education<br>
+                For A Better Tomorrow
+            </h1>
+
+            <p>
+                At Kazibwe Foundation School we nurture young minds,
+                build strong values and prepare leaders for a better tomorrow.
+            </p>
+
+            <a href="""" class=""button"">Learn More</a>
+
+        </div>
+
+    </section>
+
+
+    <!-- Welcome Section -->
+    <section class=""welcome"" id=""about"">
+
+        <div class=""welcome-text"">
+
+            <h2>Welcome to Kazibwe Foundation School</h2>
+
+            <p>
+                We provide a supportive learning environment where children
+                can learn, grow and develop confidence. Our school focuses on
+                good education, discipline, talents and positive values.
+            </p>
+
+            <p>
+                We work together with parents and the community to help every
+                learner build a strong foundation for the future.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- School Features -->
+    <section class=""features"">
+
+        <div class=""feature"">
+            <div class=""icon"">🎓</div>
+            <h2>Academic Excellence</h2>
+            <p>Strong foundation for future success</p>
+        </div>
+
+        <div class=""feature"">
+            <div class=""icon"">👨‍👩‍👧‍👦</div>
+            <h2>Caring Environment</h2>
+            <p>Every child matters</p>
+        </div>
+
+        <div class=""feature"">
+            <div class=""icon"">★</div>
+            <h2>Holistic Development</h2>
+            <p>Academics, talents and values</p>
+        </div>
+
+    </section>
+
+
+    <!-- Academics Section -->
+    <section class=""academics"" id=""academics"">
+
+        <h2>Learning and Development</h2>
+
+        <p>
+            Our learners are encouraged to develop knowledge, creativity,
+            discipline and practical skills that prepare them for the future.
+        </p>
+
+        <div class=""academic-boxes"">
+
+            <div class=""academic-box"">
+                <h3>Quality Learning</h3>
+                <p>Lessons that build knowledge and understanding.</p>
+            </div>
+
+            <div class=""academic-box"">
+                <h3>Creative Skills</h3>
+                <p>Encouraging learners to discover and use their talents.</p>
+            </div>
+
+            <div class=""academic-box"">
+                <h3>Good Values</h3>
+                <p>Building responsible, respectful and confident citizens.</p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- School Activities -->
+    <section class=""activities"" id=""activities"">
+
+        <h2>School Life</h2>
+
+        <p>
+            Learning goes beyond the classroom. We encourage learners to
+            participate in activities that support teamwork, creativity and confidence.
+        </p>
+
+        <div class=""activity-list"">
+
+            <div>⚽ Sports</div>
+            <div>🎨 Creative Activities</div>
+            <div>📚 Reading</div>
+            <div>🌱 Community Values</div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Colourful Enrollment Section -->
+    <section class=""join-school"" id=""enroll"">
+
+        <h2>Give Your Child a Strong Foundation</h2>
+
+        <p>
+            Join Kazibwe Foundation School and give your child an opportunity
+            to learn, grow and become a better citizen.
+        </p>
+
+        
+        <a href="""" class=""button"">Enquire About Enrollment</a>
+
+
+    </section>
+
+
+    <!-- Footer --><!-- /wp:html -->",,"2026-11-13 13:12:29",page,http://localhost/kazibwe/
+19,Nursery,"<!-- wp:html --><h1>Nursery School</h1>
+        <p class=""programme-intro"">Baby Class – Top Class</p>
+
+        <section class=""programme-hero"">
+            <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/nursary.jpg""
+                 alt=""School learning environment"">
+            <div class=""programme-hero-text"">
+                <h2>A Happy Start to Learning</h2>
+                <p>
+                    A fun and caring environment where children learn
+                    through play, discovery and creativity. Our aim is
+                    to help young learners develop confidence, curiosity
+                    and a positive attitude towards learning.
+                </p>
+            </div>
+        </section>
+
+        <section class=""programme-section"">
+            <h2>Building a Strong Foundation</h2>
+            <p>
+                Early childhood is an important stage in a child's
+                development. Learning experiences at this stage can help
+                children build communication, thinking, social and
+                practical skills.
+            </p>
+
+            <div class=""programme-image-grid"">
+                <article class=""programme-image-card"">
+                    <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/nusary2Top.png""
+                         alt=""Learning resource for young learners"">
+                    <div class=""programme-card-content"">
+                        <h3>Discovery and Exploration</h3>
+                        <p>
+                            Encouraging children to ask questions,
+                            explore and discover new things.
+                        </p>
+                    </div>
+                </article>
+
+                <article class=""programme-image-card"">
+                    <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/early-literacy.jpg""
+                         alt=""Illustration of an open book"">
+                    <div class=""programme-card-content"">
+                        <h3>Early Literacy</h3>
+                        <p>
+                            Building an interest in stories, language,
+                            books and communication.
+                        </p>
+                    </div>
+                </article>
+
+                <article class=""programme-image-card"">
+                    <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/createive-learning1.jpg""
+                         alt=""Educational image"">
+                    <div class=""programme-card-content"">
+                        <h3>Creative Learning</h3>
+                        <p>
+                            Supporting imagination, creativity and
+                            learning through guided activities.
+                        </p>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <section class=""programme-section programme-learning"">
+            <h2>What Children Develop</h2>
+            <ul class=""programme-list"">
+                <li>Early language and communication skills</li>
+                <li>Number recognition and basic counting</li>
+                <li>Social skills, sharing and cooperation</li>
+                <li>Creativity and problem-solving</li>
+                <li>Confidence and growing independence</li>
+            </ul>
+        </section>
+
+        <section class=""programme-actions"">
+            <h2>Give Your Child a Great Start</h2>
+            <p>Contact us to learn more about nursery enrollment.</p>
+            <div class=""programme-buttons"">
+                <a href="""" class=""button"">Enroll Now</a>
+                <a href="""" class=""button programme-secondary"">Contact Us</a>
+            </div>
+            <p><a href="""">← Back to Academics</a></p>
+        </section><!-- /wp:html -->",,"2026-11-13 13:36:15",page,http://localhost/kazibwe/nursery/
+20,Primary,"<!-- wp:html --><h1>Primary School</h1>
+        <p class=""programme-intro"">Primary One to Primary Seven (P1–P7)</p>
+
+        <section class=""programme-hero"">
+            <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/primary.jpg""
+                 alt=""School learning environment"">
+            <div class=""programme-hero-text"">
+                <h2>Building a Strong Academic Foundation</h2>
+                <p>
+                    Our primary programme focuses on academic learning,
+                    character development and essential life skills.
+                    We aim to help learners build confidence, develop
+                    good learning habits and prepare for their next
+                    stage of education.
+                </p>
+            </div>
+        </section>
+
+        <section class=""programme-section"">
+            <h2>Learning and Development</h2>
+            <p>
+                Primary education helps learners develop knowledge,
+                practical skills and the ability to understand and
+                respond to the world around them.
+            </p>
+
+            <div class=""programme-image-grid"">
+                <article class=""programme-image-card"">
+                    <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/building-knowledge.jpg""
+                         alt=""Educational learning resource"">
+                    <div class=""programme-card-content"">
+                        <h3>Building Knowledge</h3>
+                        <p>
+                            Developing understanding and strengthening
+                            learning skills across school subjects.
+                        </p>
+                    </div>
+                </article>
+
+                <article class=""programme-image-card"">
+                    <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/class-computer.jpg""
+                         alt=""Open book illustration"">
+                    <div class=""programme-card-content"">
+                        <h3>Computer Skills for Young Learners</h3>
+                        <p>
+                            Introducing children to computers through fun, 
+                            interactive activities that develop digital skills
+                            and literacy.
+                        </p>
+                    </div>
+                </article>
+
+                <article class=""programme-image-card"">
+                    <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/learning-together.jpg""
+                         alt=""Educational image"">
+                    <div class=""programme-card-content"">
+                        <h3>Learning Together</h3>
+                        <p>
+                            Supporting cooperation, discussion,
+                            creativity and problem-solving.
+                        </p>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <section class=""programme-section programme-learning"">
+            <h2>Our Learning Priorities</h2>
+            <ul class=""programme-list"">
+                <li>Reading, writing and communication</li>
+                <li>Mathematics and problem-solving</li>
+                <li>Science and understanding the world</li>
+                <li>Computer Skills for Young Learners</li>
+                <li>Social studies and responsible citizenship</li>
+                <li>Discipline, respect and personal responsibility</li>
+                <li>Creativity, teamwork and independent learning</li>
+            </ul>
+        </section>
+
+        <section class=""programme-actions"">
+            <h2>Prepare for the Next Stage</h2>
+            <p>Contact us for information about primary school enrollment.</p>
+            <div class=""programme-buttons"">
+                <a href="""" class=""button"">Enroll Now</a>
+                <a href="""" class=""button programme-secondary"">Contact Us</a>
+            </div>
+            <p><a href="""">← Back to Academics</a></p>
+        </section><!-- /wp:html -->",,"2026-11-13 13:36:15",page,http://localhost/kazibwe/primary/
+21,"Co-Curricular Activities","<!-- wp:html --><h1>Co-Curricular Activities</h1>
+        <p class=""programme-intro"">
+            Developing talents, teamwork and confidence beyond the classroom.
+        </p>
+
+        <section class=""programme-hero"">
+            <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/soccer-football.jpg""
+                 alt=""Football representing school sports"">
+            <div class=""programme-hero-text"">
+                <h2>Learning Beyond the Classroom</h2>
+                <p>
+                    Co-curricular activities give learners opportunities
+                    to explore interests, express themselves, work with
+                    others and develop skills beyond academic lessons.
+                </p>
+            </div>
+        </section>
+
+        <section class=""programme-section"">
+            <h2>Explore Activities</h2>
+            <p>
+                Sports, creative expression and group activities can
+                help learners build confidence, responsibility and
+                positive relationships.
+            </p>
+
+            <div class=""programme-image-grid"">
+                <article class=""programme-image-card"">
+                    <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/sportsDay.jpg""
+                         alt=""Football representing sports and games"">
+                    <div class=""programme-card-content"">
+                        <h3>Sports and Games</h3>
+                        <p>
+                            Physical activities can promote fitness,
+                            teamwork, discipline and fair play.
+                        </p>
+                    </div>
+                </article>
+
+                <article class=""programme-image-card"">
+                    <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/singing.jpg""
+                         alt=""Learning resource"">
+                    <div class=""programme-card-content"">
+                        <h3>Music and Drama</h3>
+                        <p>
+                            Creative activities can help learners
+                            express ideas and build confidence.
+                        </p>
+                    </div>
+                </article>
+
+                <article class=""programme-image-card"">
+                    <img src=""/wp-content/themes/kazibwe-foundation-exact-theme/assets/images/debate.jpg""
+                         alt=""Educational image"">
+                    <div class=""programme-card-content"">
+                        <h3>Debate and Clubs</h3>
+                        <p>
+                            Group activities can encourage communication,
+                            critical thinking and cooperation.
+                        </p>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <section class=""programme-section programme-learning"">
+            <h2>What Learners Can Develop</h2>
+            <ul class=""programme-list"">
+                <li>Teamwork and cooperation</li>
+                <li>Confidence and self-expression</li>
+                <li>Communication and leadership skills</li>
+                <li>Creativity and problem-solving</li>
+                <li>Discipline and respect for others</li>
+            </ul>
+        </section>
+
+        <section class=""programme-actions"">
+            <h2>Discover More</h2>
+            <p>
+                Contact us to learn more about school programmes
+                and activities.
+            </p>
+            <div class=""programme-buttons"">
+                <a href="""" class=""button"">Contact Us</a>
+                <a href="""" class=""button programme-secondary"">Enroll Now</a>
+            </div>
+            <p><a href="""">← Back to Academics</a></p>
+        </section><!-- /wp:html -->",,"2026-11-13 13:36:15",page,http://localhost/kazibwe/co-curricular/
+22,"Thank You","<!-- wp:html --><div class=""thank-you-card"">
+        <div class=""thank-you-check"">✓</div>
+
+        <h1>Thank You for Contacting Us!</h1>
+
+        <p class=""thank-you-lead"">
+            Your message has been submitted successfully.
+        </p>
+
+        <p>
+            Thank you for reaching out to Kazibwe Foundation School.
+            We appreciate your interest and will get back to you as soon
+            as possible.
+        </p>
+
+        <p class=""thank-you-slogan"">Great Learners. Better Citizens.</p>
+
+        <div class=""thank-you-actions"">
+            <a href="""" class=""contact-enroll-button"">
+                Back to Home
+            </a>
+
+            <a href="""" class=""thank-you-secondary-button"">
+                Contact Us Again
+            </a>
+        </div>
+    </div><!-- /wp:html -->",,"2026-11-13 13:36:15",page,http://localhost/kazibwe/thank-you/

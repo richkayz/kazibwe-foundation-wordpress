@@ -1,0 +1,38 @@
+/*
+Theme Name: SchoolTheme Elementor
+Theme URI: https://example.com/school-theme
+Author: Custom Dev
+Author URI: https://example.com
+Description: A clean, modern WordPress theme pre-configured for Elementor Page Builder, featuring a custom Tailwind-inspired design system and full-width canvas support.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: school-theme
+Tags: education, elementor, custom-background, custom-logo, custom-menu, featured-images, full-width-template
+*/
+
+/* Base Reset & Typography */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #f8fafc;
+    color: #1e293b;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* WordPress Core Alignments */
+.alignwide {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.alignfull {
+    width: 100%;
+    max-width: 100%;
+}
